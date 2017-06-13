@@ -7,3 +7,4 @@ echo "move on";
 echo "no";
 echo "test";
 echo "merge";
+echo "1";
