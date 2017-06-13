@@ -6,3 +6,4 @@ echo "give me the money";
 echo "move on";
 echo "no";
 echo "test";
+echo "merge";
