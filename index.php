@@ -1,3 +1,4 @@
 <?php
 echo 'king';
-echo 'I am fain';
+echo 'I am fine';
+echo "that's ridiculous";
